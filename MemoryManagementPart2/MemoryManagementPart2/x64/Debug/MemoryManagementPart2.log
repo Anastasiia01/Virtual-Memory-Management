@@ -1,0 +1,4 @@
+﻿  MemoryManagementPart2.cpp
+c:\users\anast\documents\ub 5 semester\cpeg-308_os\memorymanagementpart2\memorymanagementpart2.cpp(114): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\anast\documents\ub 5 semester\cpeg-308_os\memorymanagementpart2\memorymanagementpart2.cpp(302): warning C4101: 'TLB_index': unreferenced local variable
+  MemoryManagementPart2.vcxproj -> C:\Users\anast\Documents\UB 5 semester\CPEG-308_OS\MemoryManagementPart2\x64\Debug\MemoryManagementPart2.exe
